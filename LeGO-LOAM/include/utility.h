@@ -11,6 +11,7 @@
 #include "cloud_msgs/cloud_info.h"
 
 #include <opencv2/opencv.hpp>
+#include "eigen_config.h"
 
 #include <pcl/point_cloud.h>
 #include <pcl/point_types.h>
